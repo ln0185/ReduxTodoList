@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/ln0185/ReduxTodoList",
   "name": "redux-todo",
   "private": true,
   "version": "0.0.0",
